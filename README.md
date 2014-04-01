@@ -20,5 +20,5 @@ want to load a `matplotlibrc` from a specific directory
 you can use the following code:
 
 ```python
-matplotlib.rc_file("path/to/my/specific/matplotlibrc_LHCb")
+matplotlib.rc_file('path/to/my/specific/matplotlibrc_LHCb')
 ```
