@@ -26,8 +26,10 @@ font.size:   14
 font.weight: 400
 
 legend.frameon:       false
-legend.handletextpad: 0
+legend.handletextpad: 0.3
 legend.numpoints:     1
+legend.labelspacing:  0.2
+legend.fontsize:      28
 
 lines.linewidth:       2
 lines.markeredgewidth: 0
